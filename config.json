@@ -13,9 +13,9 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "grpc",
-        "grpcSettings": {
-          "serviceName": "hamzagrpc"
+        "network": "ws",
+        "wsSettings": {
+          "path": "/t.me/goldenhamzanet"
         }
       }
     }
